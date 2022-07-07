@@ -11,9 +11,9 @@
 ---
 ## Website Link (Hosted On Github page)
 
-[Website](https://soham-0047.github.io/Marraige-Website/)
+[Website](https://soham-0047.github.io/Make-Up-Website/)
 
-[Github Repo](https://github.com/Soham-0047/Marraige-Website)
+[Github Repo](https://github.com/Soham-0047/Make-Up-Website)
 
 ---
 ## Screenshots of Projects
